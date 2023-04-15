@@ -38,7 +38,7 @@ myText.addEventListener("mouseleave", function(){
     button.style.backgroundColor = 'white';
   });
 
-  myButton.addEventListener('mouseleave', function(){
+  button.addEventListener('mouseleave', function(){
     button.style.backgroundColor = 'rgb(39, 172, 94)';
   });
 
